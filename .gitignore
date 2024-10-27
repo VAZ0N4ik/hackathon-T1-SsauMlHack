@@ -13,7 +13,6 @@
 *.MOV
 *.avi
 *.data
-*.json
 *.txt
 *.yaml
 
