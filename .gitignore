@@ -30,7 +30,6 @@ gcp_test*.sh
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
-*.pt
 *.onnx
 *.mlmodel
 darknet53.conv.74
