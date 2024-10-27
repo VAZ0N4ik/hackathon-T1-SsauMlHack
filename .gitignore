@@ -18,6 +18,8 @@
 
 out/*
 new_dir/*
+detected/*
+test_images/*
 
 pycocotools/*
 results*.txt
